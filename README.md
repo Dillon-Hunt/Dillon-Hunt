@@ -4,14 +4,14 @@
 ### Websites:
 
 [Portfolio / Blog Site](https://github.com/Dillon-Hunt/dillon-hunt.com)
-- React
+- React JS
 
 [Cafe Ordering Web App](https://github.com/Dillon-Hunt/cafe-web-app)
-- React
+- React JS
 - Firebase
 
 [Cafe Managment Web App](https://github.com/Dillon-Hunt/cafe-managment-web-app)
-- React
+- React JS
 - Firebase
 
 [31 Card Game](https://github.com/Dillon-Hunt/31)
@@ -19,11 +19,11 @@
 - Firebase
 
 [Social Media App](https://github.com/Dillon-Hunt/social-media-platform)
-- React/JavaScript
+- React JS
 - Firebase
 
 [Pentagon Game](https://github.com/Dillon-Hunt/pentagon)
-- React/Typescript
+- React TS
 
 ### Programs
 
@@ -35,7 +35,7 @@
 [Productivity Timer / Firefox Extention](https://github.com/Dillon-Hunt/Focus-Idle-City)
 - Javascript
 
-[Neww Tab Extention / Firefox Extention](https://github.com/Dillon-Hunt/NewTab)
+[New Tab Extention / Firefox Extention](https://github.com/Dillon-Hunt/NewTab)
 - Javascript 
 
 [Top Down RPG Game (Discontinued)](https://github.com/Dillon-Hunt/Top-Down-RPG)
@@ -44,4 +44,5 @@
 [Top Down RPG Map Editor (Discontinued)](https://github.com/Dillon-Hunt/Top-Down-RPG-Editor)
 - Javascript
 
-[CORS Bypass](https://github.com/Dillon-Hunt/cors)
+[CORS Bypass](https://github.com/Dillon-Hunt/cors) (Not Mine)
+- NodeJS
