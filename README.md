@@ -38,6 +38,9 @@
 [New Tab Extention / Firefox Extention](https://github.com/Dillon-Hunt/NewTab)
 - Javascript 
 
+[Encryption / Decryption Tool Using Various Ciphers](https://github.com/Dillon-Hunt/Encrypt)
+- Javascript 
+
 [Top Down RPG Game (Discontinued)](https://github.com/Dillon-Hunt/Top-Down-RPG)
 - Javascript
 
