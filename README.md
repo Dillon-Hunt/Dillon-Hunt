@@ -14,6 +14,9 @@
 - React JS
 - Firebase
 
+[Logic Gate Simulation](https://github.com/Dillon-Hunt/logic-gate-simulation)
+- JavaScript
+
 [31 Card Game](https://github.com/Dillon-Hunt/31)
 - JavaScript
 - Firebase
@@ -36,6 +39,9 @@
 - Javascript
 
 [New Tab Extention / Firefox Extention](https://github.com/Dillon-Hunt/NewTab)
+- Javascript 
+
+[Another New Tab Extention / Firefox Extention](https://github.com/Dillon-Hunt/NewTab-Pastels)
 - Javascript 
 
 [Encryption / Decryption Tool Using Various Ciphers](https://github.com/Dillon-Hunt/Encrypt)
