@@ -3,7 +3,7 @@
 ## About Me
 My name is Dillon Hunt, I am high-school student and I love programming. I like to create small websites & games in my spare time to improve my skills. I mainly focus on frontend develomment but I am trying to build my experience in full stack programming as well as geting used to frameworks like React. You can visit my [website](https://dillon-hunt.com) to see more about my projects.
 
-## Projects:
+## Projects
 
 ### Portfolio / Blog Site
 [![Portfolio / Blog Site](https://user-images.githubusercontent.com/90228106/189116456-b01d2828-d157-4fb9-8b25-42e1c58e9e0f.png)](https://github.com/Dillon-Hunt/dillon-hunt.com)
@@ -48,7 +48,7 @@ Developed Using:
 - HTML
 - CSS
 
-## More Projects I Haven't Got Images For Yet:
+## More Projects I Haven't Got Images For Yet
 
 [Logic Gate Simulation](https://github.com/Dillon-Hunt/logic-gate-simulation)
 - JavaScript
