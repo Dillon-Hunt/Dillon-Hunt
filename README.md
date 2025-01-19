@@ -6,11 +6,11 @@ My name is Dillon Hunt, I am high-school student and I love programming. I like 
 ## Projects
 
 ### Portfolio / Blog Site
-[![Portfolio / Blog Site](https://user-images.githubusercontent.com/90228106/189116456-b01d2828-d157-4fb9-8b25-42e1c58e9e0f.png)](https://github.com/Dillon-Hunt/dillon-hunt.com)
+[![Portfolio](https://github.com/Dillon-Hunt/portfolio/assets/90228106/4cee7651-d8e9-40ca-bf71-a047c5385ad7)](https://github.com/Dillon-Hunt/portfolio)
 [Live Site](https://dillon-hunt.com)
 
 Developed Using:
-- HUGO
+- JavaScript
 - HTML
 - CSS
 
